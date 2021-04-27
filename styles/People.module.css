@@ -1,0 +1,17 @@
+.header {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.links {
+  color: rgb(41, 121, 182);;
+  text-align: center;
+  cursor: pointer;
+  padding: 10px;
+  margin: auto;
+}
+
+.links:hover {
+  text-transform: uppercase;
+  background-color: crimson;
+}
